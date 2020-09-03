@@ -1,4 +1,3 @@
-"""Check if userbot alive. If you change these, you become the gayest gay such that even the gay world will disown you."""
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
@@ -13,5 +12,5 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`░█─░█ █▀▀ █── █── █▀▀█ \n░█▀▀█ █▀▀ █── █── █──█ \n░█─░█ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀ \n\nYes Sir ! I'm Alive\n\nTelethon version: 6.9.0\nPython: 3.7.3\n\n`"
                     f"`My Master`: {DEFAULTUSER}\n"
-                     "`My Owner`: @TechnoAyanOfficial\n\n"
-                     "Join [Channel](https://t.me/TechnoAyanBoT/) For Latest Updates")
+                     "`My Owner`: @DarkLukeclapyou\n\n"
+                 
